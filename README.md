@@ -233,12 +233,5 @@ This project demonstrates:
 - Audit log explorer
 - Multi-tenant merchant support
 
----
 
-## 👤 Author
-
-**Yash**  
-Full Stack / Support Platform Developer
-
----
 
